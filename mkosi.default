@@ -4,5 +4,5 @@ Release=focal
 
 [Output]
 Format=gpt_ext4
-Bootable=True
-Minimize=True
+Bootable=yes
+Minimize=yes

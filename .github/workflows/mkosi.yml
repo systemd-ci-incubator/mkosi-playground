@@ -17,4 +17,4 @@ jobs:
     - uses: systemd/mkosi@01ea953fd2af738f974b228991c768c12b50db95
 
     - name: Run mkosi
-      run: sudo mkosi build
+      run: sudo mkosi --debug run build
