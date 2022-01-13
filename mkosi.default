@@ -1,0 +1,8 @@
+[Distribution]
+Distribution=ubuntu
+Release=focal
+
+[Output]
+Format=gpt_ext4
+Bootable=True
+Minimize=True
